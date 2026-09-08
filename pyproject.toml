@@ -1,3 +1,4 @@
+[project]
 name = "textstats"
 version = "0.1.0"
 description = "Add your description here"
